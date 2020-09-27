@@ -1,10 +1,9 @@
 import telebot
-import config
 import random
 
 from telebot import types
 
-bot = telebot.TeleBot(config.TOKEN)
+bot = telebot.TeleBot(1284877651:AAGHVnO4VA0jBX7KZLOac8C7JNjEFFfbD4A)
 
 name = ''
 surname = ''
